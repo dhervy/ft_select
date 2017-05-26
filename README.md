@@ -8,7 +8,7 @@ Sujet:
 
 ## Compiling
 
-executer `make`, un exécutable nommé `ft_select` devrait compiler directement.
+Exécuter `make`, un exécutable nommé `ft_select` devrait être compilé directement.
 
 ## Usage
 
