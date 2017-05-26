@@ -25,8 +25,8 @@ rm `./ft_select Fichier1 Fichier2
 
 ## Controle
 
-* Ce déplacer `Fleche directionel`
+* Se déplacer `Fleche directionel`
 * Selectionner `Espace`
-* Deselectioner `Espace`
+* Désélectioner `Espace`
 * Suprimer `Delete`
 * Envoyer `Entrer`
